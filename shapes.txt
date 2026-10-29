@@ -1,0 +1,6 @@
+5
+Circle #000000 223 193 1 1 25
+Circle #000000 272 191 1 1 25
+Ellipse #000000 237 240 1 1 50 25
+Ellipse #ffffff 236 229 1 1 50 25
+Label #ff00ff 320 170 0 1 3 "Bonjour!"
